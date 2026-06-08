@@ -1,2 +1,2 @@
 # GlobalCareerAcc
-Will find all the project of the global career accelarator
+You will find all the prject of Global Career Accelarator
